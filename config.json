@@ -1,12 +1,1 @@
-{
-  "prefix": "/",
-  "token": "",
-  "permissions": "2147552256",
-  "application_id": "1109885462803398666",
-  "SCOPES": "https://www.googleapis.com/auth/spreadsheets",
-  "SPREADSHEET_ID": "1I6mxjSNYt8EaAxcKGSeH3W3ShFS7V2SHXTaXn6FiVwY",
-  "sync_commands_globally": false,
-  "owners": [533607724307709952],
-  "guildID": [1110989070114496523],
-  "invite_link": ["https://discord.com/api/oauth2/authorize?client_id=1109885462803398666&permissions=2147552256&scope=bot"]
-}
+
